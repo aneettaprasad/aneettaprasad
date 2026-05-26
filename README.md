@@ -1,4 +1,4 @@
-7## Hi there 👋
+
 
 I'm **Aneetta Prasad**, an Artificial Intelligence & Data Science Engineering student passionate about AI, Machine Learning, Data Science, and modern technologies. I enjoy building intelligent solutions and continuously improving my technical skills.
 
